@@ -1,6 +1,10 @@
 hey i am trying to inject the data
 created another feature branch to add data 
 and see how git works
+
 adding some more data in the file or text.
+
+i am adding another line for merge both and additional.
+
 
  i am fixing this bug.
